@@ -139,9 +139,9 @@ Achieved **99% CIS benchmark compliance** using Cloud Custodian
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 💼 LinkedIn: https://www.linkedin.com/in/satish-kumar2/
 - 🧑‍💻 GitHub: https://github.com/sthandra9989
-- 📫 Email: 190031605cse@gmail.com
+- 📫 Email: thandravas9989@gmail.com
 
 ---
 
