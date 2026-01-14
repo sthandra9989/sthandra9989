@@ -21,7 +21,7 @@
 ## 🧰 Tech Stack
 
 ### 🚀 Programming & Scripting
-- Python | Go | Bash | SQL | JavaScript | Rust
+- Python | Go | Bash | SQL | JavaScript
 
 ### ☁️ Cloud Platforms & Services
 
@@ -142,26 +142,6 @@ Achieved **99% CIS benchmark compliance** using Cloud Custodian
 - 💼 LinkedIn: *(add your LinkedIn URL)*
 - 🧑‍💻 GitHub: https://github.com/sthandra9989
 - 📫 Email: 190031605cse@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthandra9989&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthandra9989&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sthandra9989&theme=tokyo-night" />
-</p>
 
 ---
 
